@@ -11,9 +11,9 @@
 <p>apt install python3 git -y</p>
 <p>git clone https://github.com/MalikUzairMk/MalikUzairMk-CCTV_Hack.git</p>
 <p>pip install -r requirements.txt</p>
-<p>cdMalikUzairMk-CCTV_Hack</p>
+<p>cd MalikUzairMk-CCTV_Hack</p>
 <p>chmod +x *</p>
-<p>python3 cctv.py</p>
+<p>python3 MalikUzairMk.py</p>
 
 <h1>Reach Out to me!</h1>
 <h5>I am available in email and messenger. You can message me (except hi/hello), I will reply within 24 hours. I can help you with Python, shell, web application, android app development.</h5>
